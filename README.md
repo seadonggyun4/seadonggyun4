@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**seadonggyun4/seadonggyun4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img width="835" alt="nametag" src="https://user-images.githubusercontent.com/84368302/127463337-6f140b6f-c217-46aa-be82-69c42cd85d2a.PNG">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
