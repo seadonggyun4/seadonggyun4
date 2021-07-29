@@ -7,8 +7,9 @@
 <p align = "center"> Techs that I've used at least once </p>
 
 <div align = "center">
+<img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=python&logoColor=white" ></a>
 <img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white" ></a>
-<img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white" ></a>
-<img src="https://img.shields.io/badge/Go-3766AB?style=flat-square&logo=Go&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/Css-3766AB?style=flat-square&logo=Css&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/Html-3766AB?style=flat-square&logo=Html&logoColor=white" ></a>
 </div>
 
