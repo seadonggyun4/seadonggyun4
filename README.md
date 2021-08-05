@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Css-2480E6?style=flat-square&logo=CSS3&logoColor=white" ></a>
  &nbsp;
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white" ></a>
-
+ &nbsp;
+<img src="https://img.shields.io/badge/php-E34F26?style=flat-square&logo=php&logoColor=white" ></a>
 </div>
 
