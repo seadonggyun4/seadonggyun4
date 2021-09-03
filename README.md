@@ -18,6 +18,6 @@
  &nbsp;
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white" ></a>
  &nbsp;
- <img src="https://img.shields.io/badge/Bootstrap-E34F26?style=flat-square&logo=HTML5&logoColor=white" ></a>
+ <img src="https://img.shields.io/badge/Bootstrap-#7952B3?style=flat-square&logo=HTML5&logoColor=white" ></a>
  &nbsp;
 
