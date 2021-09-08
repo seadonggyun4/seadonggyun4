@@ -2,11 +2,11 @@
 <img width="835" alt="nametag" src="https://user-images.githubusercontent.com/84368302/127463337-6f140b6f-c217-46aa-be82-69c42cd85d2a.PNG">
 
 
-<h3 align = "center">🚀 Tech Stack </h3>
+<h3>🚀 Tech Stack </h3>
 
-<hr>
+<br>
 
-<div align = "center">
+<!-- <div align = "center"> -->
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=python&logoColor=white" ></a>
  &nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" ></a>
