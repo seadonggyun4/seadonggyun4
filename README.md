@@ -2,11 +2,9 @@
 <img width="835" alt="nametag" src="https://user-images.githubusercontent.com/84368302/127463337-6f140b6f-c217-46aa-be82-69c42cd85d2a.PNG">
 
 
-<h3>🚀 Tech Stack </h3>
+<h3>Skills Stack 🚀 </h3>
 
 <br>
-
-<!-- <div align = "center"> -->
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=python&logoColor=white" ></a>
  &nbsp;
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" ></a>
@@ -17,6 +15,7 @@
  &nbsp;
 <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white" ></a>
  &nbsp;
+
+<h3>Tech Stack 🔰 </h3>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" ></a>
  &nbsp;
-
