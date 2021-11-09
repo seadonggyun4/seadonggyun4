@@ -24,3 +24,5 @@
  &nbsp;
  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white" ></a>
  &nbsp;
+ <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" ></a>
+ &nbsp;
