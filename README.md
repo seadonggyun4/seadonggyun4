@@ -30,3 +30,8 @@
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" ></a>
  &nbsp;
   </div>
+  <br>
+
+![seadonggyun4 GitHub stats](https://github-readme-stats.vercel.app/api?username=seadonggyun4&show_icons=true&theme=cobalt)  
+
+
