@@ -7,7 +7,7 @@
 <br>
 
 
-<h1>🛠Techs stack </h1>
+<h2>🛠Techs stack </h2>
 
 <div>
 <h3>Skill</h3>
