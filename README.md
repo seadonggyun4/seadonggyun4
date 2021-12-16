@@ -29,6 +29,6 @@
 <table/>
 <br>
 
-![seadonggyun4 GitHub stats](https://github-readme-stats.vercel.app/api?username=seadonggyun4&theme=maroongold&show_icons=true)  
+![seadonggyun4 GitHub stats](https://github-readme-stats.vercel.app/api?username=seadonggyun4&show_icons=true&theme=cobalt)  
 
 
