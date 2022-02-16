@@ -19,6 +19,7 @@
    <br>
    <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white" ></a>
    <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Webpack-2480E6?style=flat-square&logo=Webpack&logoColor=white" ></a>
  </tr>
  <tr>
   <th>
