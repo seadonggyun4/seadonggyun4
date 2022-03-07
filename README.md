@@ -23,10 +23,12 @@
   <th>
     <h3>Framework & Tool</h3>
   <th/>
-   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" ></a>
- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" ></a>
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" ></a>
- <img src="https://img.shields.io/badge/Webpack-2480E6?style=flat-square&logo=Webpack&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Webpack-2480E6?style=flat-square&logo=Webpack&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" ></a>
+   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white" ></a>
  </tr>
 <table/>
 <br>
