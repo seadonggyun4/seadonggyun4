@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/84368302/142712221-501f81c2-8eab-496f-b1c4-27166e3f07ee.gif" alt="drawing" width="300"/> 
 </div>
 
-<p align="center"> 👋 Hello i'm interested in Front-End development</p>
+<p align="center"> 👋 Hello i'm interested in UI development</p>
 <br>
 <br>
 
