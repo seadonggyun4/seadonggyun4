@@ -3,20 +3,17 @@
 
 <div>
   <div align="center">
-    <img src="https://user-images.githubusercontent.com/84368302/188074674-d8dcf03d-ddc5-411a-8f2c-cb9edaace66a.gif" alt="drawing" width="300"/> 
-    <div>
-      <p>- 👋 Hello i'm UI development</p>
-      <p>- 👀 i'm interested in "UI Modularity"</p>
-      <p>- 😊 seadonggyun@gmail.com</p>
-    </div>
+    <img src="https://user-images.githubusercontent.com/84368302/188074674-d8dcf03d-ddc5-411a-8f2c-cb9edaace66a.gif" alt="drawing" /> 
   </div>
   <br>
   <br>
-
-
+  <h2> INFO </h2>
+    <p>- 👋 Hello i'm UI development</p>
+    <p>- 👀 i'm interested in "UI Modularity"</p>
+    <p>- 😊 seadonggyun@gmail.com</p>
+  <br/>
   
-  <h2>Techs stack </h2>
-  <br>
+  <h2> Techs stack </h2>
   <h3>
     Skill :
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" ></a>
