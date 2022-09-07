@@ -8,7 +8,7 @@
   <br>
   <br>
   <h2> INFO </h2>
-    <p>- 👋 Hello i'm UI development</p>
+    <p>- 👋 Hello i'm UI Developer</p>
     <p>- 👀 i'm interested in "UI Modularity"</p>
     <p>- 😊 seadonggyun@gmail.com</p>
   <br/>
