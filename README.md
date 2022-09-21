@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white" ></a>
   </h3>
   <h3>
-    Framework :
+    Front-End :
       <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" ></a>
       <img src="https://img.shields.io/badge/React-2092d8?style=flat-square&logo=React&logoColor=white" ></a>
       <img src="https://img.shields.io/badge/Next.js-121a35?style=flat-square&logo=Next.js&logoColor=white" ></a>
