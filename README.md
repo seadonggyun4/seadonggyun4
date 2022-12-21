@@ -35,8 +35,6 @@
   </h3>
   <h3>
     Tool :
-      <img src="https://img.shields.io/badge/Webpack-2480E6?style=flat-square&logo=Webpack&logoColor=white" ></a>
-      <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white" ></a>
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white" ></a>
+      <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" ></a>
   </h3>
 </div>
