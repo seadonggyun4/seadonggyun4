@@ -32,6 +32,7 @@
     library :
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" ></a>
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" ></a>
+      <img src="https://img.shields.io/badge/Vuetify-78e6e4?style=flat-square&logo=Vuetify&logoColor=white" ></a>
   </h3>
   <h3>
     Tool :
