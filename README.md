@@ -33,7 +33,7 @@
   </h3>
   <br>
   <h2> INFO </h2>
-    <p>- 🌱 Hello i'm Front-end Developer</p>
-    <p>- 🌱 i'm interested in "UI Modularity" & "WebGL"</p>
-    <p>- 🌱 seadonggyun@gmail.com</p>
+    <p> 🌱 Hello i'm Front-end Developer</p>
+    <p> 🌱 i'm interested in "UI Modularity" & "WebGL"</p>
+    <p> 🌱 seadonggyun@gmail.com</p>
 </div>
