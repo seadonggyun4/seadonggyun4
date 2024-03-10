@@ -12,10 +12,10 @@
     <p> 🌱 Hello i'm Front-end Developer</p>
     <p> 🌱 i'm interested in "UI Modularity" & "WebGL"</p>
     <p> 🌱 seadonggyun@gmail.com</p>
-  <h2> STACK </h2>
-  
+      
   <br>
   
+  <h2> STACK </h2>
   <h3>
     Skill :
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" ></a>
