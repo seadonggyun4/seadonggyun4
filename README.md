@@ -5,10 +5,6 @@
   <!--      <img src="https://github.com/seadonggyun4/seadonggyun4/assets/84368302/8884e849-a661-4df7-b1c3-327ca35377b2" alt="drawing" width="700"/>  -->
 <!--           <img src="https://github.com/seadonggyun4/seadonggyun4/assets/84368302/2e7b77da-936a-4aec-952d-23ead940773a" alt="drawing" width="800"/>  -->
 <!--   </div> -->
-  
-  <br>
-
-
   <h2> INFO </h2>
     <p> 🌱 Hello i'm Front-end Developer</p>
     <p> 🌱 i'm interested in "UI Modularity" & "WebGL"</p>
