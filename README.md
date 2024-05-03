@@ -1,10 +1,10 @@
 <div>
-  <div align="center">
+<!--   <div align="center"> -->
   <!--     <img src="https://user-images.githubusercontent.com/84368302/188083084-332449af-5a77-4dd0-a7a2-a66e7430c8fc.gif" alt="drawing" width="300"/> -->
   <!--    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/84368302/243082457-2e53e221-ed87-4b59-8974-af2c5c0bcd90.gif" alt="drawing" width="500"/> -->
   <!--      <img src="https://github.com/seadonggyun4/seadonggyun4/assets/84368302/8884e849-a661-4df7-b1c3-327ca35377b2" alt="drawing" width="700"/>  -->
-          <img src="https://github.com/seadonggyun4/seadonggyun4/assets/84368302/2e7b77da-936a-4aec-952d-23ead940773a" alt="drawing" width="800"/> 
-  </div>
+<!--           <img src="https://github.com/seadonggyun4/seadonggyun4/assets/84368302/2e7b77da-936a-4aec-952d-23ead940773a" alt="drawing" width="800"/>  -->
+<!--   </div> -->
   
   <br>
 
