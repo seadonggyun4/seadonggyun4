@@ -1,5 +1,5 @@
 <div>
-    <p> Hello i'm Front-end Developer</p>
+    <p> Front-end Developer</p>
     <p> seadonggyun@gmail.com</p>
   
   <h2></h2>
