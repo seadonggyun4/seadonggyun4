@@ -27,5 +27,4 @@ I believe in writing code that not only works but is also readable, testable, an
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seadonggyun&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seadonggyun&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
