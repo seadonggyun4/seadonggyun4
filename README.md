@@ -6,7 +6,7 @@ I'm a **Front-end Developer**.
 ## About Me
 
 💡 I'm focused on frontend architecture and design patterns to build scalable, maintainable applications. <br/>
-🛠️ I'm also passionate about open-source libraries and sharing insights with the developer community. <br/>
+🛠️ I've recently developed a strong interest in open-source libraries and sharing insights with the developer community. <br/>
 🎮 In my free time, I enjoy playing video games to relax and recharge.
 
 ## Tech Stack
