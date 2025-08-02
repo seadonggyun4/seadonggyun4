@@ -1,5 +1,5 @@
 
-I'm a **Front-end Developer** passionate about creating exceptional user experiences through clean, maintainable code.
+I'm a **Front-end Developer**.
 
 📧 **Contact**: seadonggyun@gmail.com
 
