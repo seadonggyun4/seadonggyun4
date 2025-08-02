@@ -5,9 +5,9 @@ I'm a **Front-end Developer**.
 
 ## About Me
 
-I'm currently diving deep into **frontend architecture**, **separation of concerns**, and **design patterns** to build more scalable and maintainable applications. Recently, I've developed a strong interest in **creating open-source library packages**, contributing to the developer community while exploring the intricacies of package design and distribution.
-
-I believe in writing code that not only works but is also readable, testable, and follows best practices. My goal is to continuously improve my craft and share knowledge with fellow developers.
+💡 I'm focused on frontend architecture and design patterns to build scalable, maintainable applications.
+🛠️ I'm also passionate about open-source libraries and sharing insights with the developer community.
+🎮 In my free time, I enjoy playing video games to relax and recharge.
 
 ## Tech Stack
 
