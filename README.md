@@ -1,5 +1,5 @@
 
-I'm a **Front-end Developer**.
+`I'm a Front-end Developer.`
 
 📧 **Contact**: seadonggyun@gmail.com
 
