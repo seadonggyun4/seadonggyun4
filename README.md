@@ -1,5 +1,6 @@
 
 `I'm a Front-end Developer.`
+![cat](https://github.com/user-attachments/assets/41316b7b-b6b4-4f32-b3f6-7a5f16289f6b)
 
 📧 **Contact**: seadonggyun@gmail.com
 
