@@ -7,4 +7,6 @@
 - 🛠️ I've recently developed a strong interest in open-source libraries. <br/>
 - 🎮 In my free time, I enjoy playing video games to relax and recharge.
 
+<br/>
+
 📧 **Contact**: seadonggyun@gmail.com
