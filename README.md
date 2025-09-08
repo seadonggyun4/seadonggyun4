@@ -1,8 +1,4 @@
 
-<img width="300" height="300" alt="logo" src="https://github.com/user-attachments/assets/41316b7b-b6b4-4f32-b3f6-7a5f16289f6b" />
-
-<br/>
-
 `I'm a Front-end Developer.`
 
 📧 **Contact**: seadonggyun@gmail.com
