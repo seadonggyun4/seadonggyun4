@@ -1,4 +1,4 @@
-<img width="200" height="500" alt="카니자로 혼란3" src="https://github.com/user-attachments/assets/f8a1069b-78cd-4cad-91ab-3ad580aeb504" />
+<!-- <img width="200" height="500" alt="카니자로 혼란3" src="https://github.com/user-attachments/assets/f8a1069b-78cd-4cad-91ab-3ad580aeb504" /> -->
 <br/>
 
 `I'm a Front-end Developer.`
