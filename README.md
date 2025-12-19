@@ -1,4 +1,4 @@
-`I'm a Front-end Developer.`
+`I'm a FullStack Developer.`
 
 ## About Me
 <img
