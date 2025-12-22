@@ -1,4 +1,4 @@
-`I'm a Full-Stack Developer — growing every day 🌱`
+`I'm a Full-Stack Developer 🌱`
 
 ## About Me
 <img
