@@ -1,8 +1,7 @@
 `I'm a Full-Stack Developer 🌱`
 
-## About Me
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=tokyonight&border_radius=5&hide_border=true&hide=html,css,scss"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=tokyonight&border_radius=5&hide_border=false&hide=html,css,scss"
   alt="Top Langs"
 />
 - I'm focused on architecture and design patterns to build scalable, maintainable applications.
