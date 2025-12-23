@@ -8,7 +8,4 @@
 - I've recently developed a strong interest in open-source libraries.
 - In my free time, I enjoy playing video games to relax and recharge.
 
-
-<br/>
-
-📧 **Contact**: seadonggyun@gmail.com
+ **Contact**: seadonggyun@gmail.com
