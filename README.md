@@ -1,4 +1,4 @@
-`I love mixing tech ingredients to cook up something new`
+`I lov3 mixing tech ingredients and cooking up fresh things`
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=tokyonight&border_radius=5&hide_border=false&hide=html,css,scss"
