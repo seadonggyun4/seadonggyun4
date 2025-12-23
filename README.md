@@ -5,7 +5,7 @@
   alt="Top Langs"
 />
 - I'm focused on architecture and design patterns to build scalable, maintainable applications.
-- I've recently developed a strong interest in open-source libraries.
+- I've recently developed a strong interest in open-source.
 - In my free time, I enjoy playing video games to relax and recharge.
 
  **Contact**: seadonggyun@gmail.com
