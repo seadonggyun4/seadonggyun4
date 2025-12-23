@@ -1,4 +1,4 @@
-`I'm a Full-Stack Developer 🌱`
+`I love mixing tech ingredients to cook up something new`
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=tokyonight&border_radius=5&hide_border=false&hide=html,css,scss"
