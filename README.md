@@ -1,10 +1,11 @@
 <!-- `I gotta show it again, busy stacking up my time.` -->
 `I lov3 mixing tech ingredients and cooking up fresh things.`
 
-<!-- <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=tokyonight&border_radius=5&hide_border=false&hide=html,css,scss"
-  alt="Top Langs"
-/> -->
+<!-- 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Lit](https://img.shields.io/badge/Lit-324FFF?logo=lit&logoColor=white)
+-->
 
 <!-- I lov3 mixing tech ingredients and cooking up fresh things. <br/>
 Yeah, it gets lonely and low sometimes, but I’m on that IDGAF energy. <br/>
