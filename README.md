@@ -11,5 +11,5 @@
 Yeah, it gets lonely and low sometimes, but I’m on that IDGAF energy. <br/>
 Life’s a journey, not a destination — I’m just riding the chaos and chasing the light. -->
 
-**Contact**: seadonggyun@gmail.com <br/>
+**Email**: seadonggyun@gmail.com <br/>
 **Instagram**: [@dongand3](https://www.instagram.com/dongand3/)
