@@ -1,4 +1,4 @@
-<img width="500px" alt="Truthound Banner" src="https://github.com/user-attachments/assets/092a84b9-ac05-4cd8-9c94-58507e8706f8" />
+<img width="500px" alt="Truthound Banner" src="https://github.com/user-attachments/assets/a428bab3-2b56-42bb-8af9-9c8bf4b30d85" />
 
 `I lov3 mixing tech ingredients and cooking up fresh things.`
 
