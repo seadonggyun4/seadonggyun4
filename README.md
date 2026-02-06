@@ -7,5 +7,7 @@ no talent but still building.<br/>
 we're dumb af.<br/>
 they talk shit, still going.<br/>
 grinding till we die!!
-
+<br/>
+<br/>
+<br/>
 <a href="https://medium.com/@seadonggyun">My diary</a>
