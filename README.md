@@ -2,7 +2,7 @@
 
 `Lov3 the grind. no big dreams—just don't get in my way. chaos outside, still centered.`
 
-i'm dumb af!!<br/>
+I'm dumb af!!<br/>
 no talent but still building.<br/>
 we're dumb af.<br/>
 they talk shit, still going.<br/>
