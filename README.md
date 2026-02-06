@@ -2,4 +2,10 @@
 
 `Lov3 the grind. no big dreams—just don't get in my way. chaos outside, still centered.`
 
+we're dumb af!!<br/>
+no talent but still building.<br/>
+we're dumb af.<br/>
+they talk shit, still going.<br/>
+grinding till we die!!
+
 <a href="https://medium.com/@seadonggyun">My diary</a>
