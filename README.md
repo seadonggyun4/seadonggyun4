@@ -2,4 +2,4 @@
 
 `Lov3 the grind. no big dreams—just don't get in my way. chaos outside, still centered.`
 
-
+<a href="https://medium.com/@seadonggyun">My diary</a>
