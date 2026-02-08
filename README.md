@@ -4,10 +4,12 @@
 
 I'm dumb af!!<br/>
 no talent but still building.<br/>
-we're dumb af.<br/>
+I'm dumb af.<br/>
 they talk shit, still going.<br/>
-grinding till we die!!
+grinding till I die!!<br/>
 <br/>
+yo, u still going too?<br/>
+then we are dumb af!!!!
 <br/>
 <br/>
 <a href="https://medium.com/@seadonggyun">My diary</a>
