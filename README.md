@@ -1,7 +1,7 @@
-<!-- <img width="400px" alt="스민_댄스" src="https://github.com/user-attachments/assets/f80ecac6-9b21-4118-b965-99d88e916a65" /> -->
-
-`Ship GS, or vanish.` <br/><br/>
-Lov3 the grind. no big dreams, just don't get in my way.
+Lov3 the grind. no big dreams.<br/>
+just don't get in my way. <br/>
+<br/>
+`Ship GS, or vanish.`
 
 <!-- 
 I'm dumb af!!<br/>
@@ -12,7 +12,4 @@ grinding till I die!!<br/>
 <br/>
 yo, u still going too?<br/>
 then we are dumb af!!!!
-<br/>
-<br/>
-<a href="https://medium.com/@seadonggyun">Medium</a>
 -->
