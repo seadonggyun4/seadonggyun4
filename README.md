@@ -3,12 +3,21 @@
 
   <br/>
   <br/>
+
   I'm dumb af!!<br/>
   no talent. still developing.
-<br/>
+  <br/>
 
   <br/>
 
   yo, u still going too?<br/>
   then we are dumb af!!!!
+
+  <br/>
+  <br/>
+
+| Name | Since | Link | Description |
+|---|---|---|---|
+| Styxis | 2026.03 | https://styxis-io.com | company website |
+
 </div>
