@@ -1,15 +1,11 @@
 <div align="center">
-  <img width="800" alt="styxisLabs_vero" src="https://github.com/user-attachments/assets/616a72c4-dae5-468e-9b69-0030873ac903" />
+  <img width="500" alt="styxisLabs_vero" src="https://github.com/user-attachments/assets/003f9b21-d9a9-4bd4-9cc3-0f7e607592bd" />
 
   <br/>
   <br/>
-
-  <strong>Lov3 the grind.</strong>
-
-  <br/>
-
   I'm dumb af!!<br/>
-  no talent but still building.<br/>
+  no talent. still developing.
+<br/>
 
   <br/>
 
