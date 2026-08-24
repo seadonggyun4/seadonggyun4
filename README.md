@@ -1,3 +1,5 @@
+`No talent. Still developing.`
+
 <!-- 
 I'm dumb af!!<br/>
 no talent. still developing.<br/>
