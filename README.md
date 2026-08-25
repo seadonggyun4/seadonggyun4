@@ -1,4 +1,4 @@
-<!--  `Still developing.` -->
+`We are dumb af!!!!`
 
 <!-- 
 I'm dumb af!!<br/>
