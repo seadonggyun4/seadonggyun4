@@ -16,12 +16,12 @@
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=seadonggyun4&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
-    height="165"
+    height="140"
     alt="GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=dracula&hide_border=true&langs_count=5"
-    height="165"
+    height="140"
     alt="Most Used Languages"
   />
 </div>
