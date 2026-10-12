@@ -10,7 +10,7 @@
   Release date: 2026-02-23 <br/>
   Category: Game
 </div>
-<br/>
+<!-- <br/>
 <br/>
 <hr/>
 <div align="center">
@@ -24,4 +24,4 @@
     height="140"
     alt="Most Used Languages"
   />
-</div>
+</div> -->
