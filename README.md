@@ -10,18 +10,13 @@
   Release date: 2026-02-23 <br/>
   Category: Game
 </div>
-<!-- <br/>
-<br/>
 <hr/>
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=seadonggyun4&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true"
-    height="140"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seadonggyun4&layout=compact&theme=dracula&hide_border=true&langs_count=5"
-    height="140"
-    alt="Most Used Languages"
-  />
-</div> -->
+  <a href="https://jocohunt.com/p/prqgapz3" target="_blank" rel="noopener" title="조코헌트 주간 1등 Top 1 위너">
+    <img
+      src="https://jocohunt.com/images/badges/weekly-dark.svg"
+      alt="조코헌트 주간 1등 Top 1 위너"
+      style="width: 250px; height: auto;"
+    />
+  </a>
+</div>
