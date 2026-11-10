@@ -10,10 +10,6 @@
   Release date: 2026-02-23 <br/>
   Category: Game
 </div>
-<br/>
-<p align="center">
-  <img src="https://gh-hits.nomadcoders.workers.dev/view?username=seadonggyun4" alt="GitHub Profile Views" />
-</p>
 <hr/>
 <div align="center">
   <a href="https://jocohunt.com/p/prqgapz3" target="_blank" rel="noopener" title="조코헌트 주간 1등 Top 1 위너">
