@@ -19,4 +19,7 @@
       style="width: 250px; height: auto;"
     />
   </a>
+  <p>
+    <img src="https://gh-hits.nomadcoders.workers.dev/view?username=seadonggyun4" alt="GitHub Profile Views" />
+  </p>
 </div>
