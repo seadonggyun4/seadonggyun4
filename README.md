@@ -25,7 +25,7 @@
     </td>
     <td>
       <a href="https://github.com/seadonggyun4">
-        <img src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=dracula&motion=on" width="200" />
+        <img src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=dark&motion=on" width="200" />
       </a>
     </td>
   </tr>
