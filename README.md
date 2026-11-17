@@ -11,12 +11,17 @@
   Category: Game
 </div>
 <hr/>
-<div align="center">
-  <a href="https://jocohunt.com/p/prqgapz3" target="_blank" rel="noopener" title="조코헌트 주간 1등 Top 1 위너">
-    <img
-      src="https://jocohunt.com/images/badges/weekly-dark.svg"
-      alt="조코헌트 주간 1등 Top 1 위너"
-      style="width: 250px; height: auto;"
-    />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://jocohunt.com/p/prqgapz3">
+        <img src="https://jocohunt.com/images/badges/weekly-dark.svg" width="250" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/seadonggyun4">
+        <img src="https://git-hub-archive.vercel.app/cards/stars.svg?v=3&theme=light&motion=on" width="150" />
+      </a>
+    </td>
+  </tr>
+</table>
