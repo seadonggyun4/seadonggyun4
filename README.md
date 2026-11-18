@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/seadonggyun4">
-    <img src="https://git-hub-archive.vercel.app/cards/level.svg?v=1&amp;theme=none" alt="Visitor level" width="100" height="50" />
+    <img src="https://git-hub-archive.vercel.app/cards/level.svg?v=1&amp;theme=none" alt="Visitor level" width="120" height="52" />
   </a>
 </div>
 
