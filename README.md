@@ -12,28 +12,8 @@
 </div>
 <hr/>
 <div align="center">
-  <!-- 상단: 조코헌트 -->
-  <a href="https://jocohunt.com/p/prqgapz3">
-    <img
-      src="https://jocohunt.com/images/badges/weekly-dark.svg"
-      width="250"
-    />
-  </a>
-
-  <!-- 하단: GitHub Stars + Truthound -->
-  <p>
-    <a href="https://github.com/seadonggyun4">
-      <img
-        src="https://git-hub-archive.vercel.app/cards/stars.svg?v=3&theme=none&motion=on"
-        width="150"
-      />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/seadonggyun4">
-      <img
-        src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=none&motion=on"
-        width="200"
-      />
-    </a>
-  </p>
+  <a href="https://jocohunt.com/p/prqgapz3"><img src="https://jocohunt.com/images/badges/weekly-dark.svg" width="250" /></a>
+  <br/>
+  <br/>
+  <a href="https://github.com/seadonggyun4"><img src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=none&motion=on" width="200" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/seadonggyun4"><img src="https://git-hub-archive.vercel.app/cards/stars.svg?v=3&theme=none&motion=on" width="150" /></a>
 </div>
