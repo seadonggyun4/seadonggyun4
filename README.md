@@ -5,7 +5,13 @@
 <div align="center">
   "Humpty Dumpty"
 </div>
-<br/>
+
+<div align="center">
+  <a href="https://github.com/seadonggyun4">
+    <img src="https://git-hub-archive.vercel.app/cards/level.svg?v=1&amp;theme=none" alt="Visitor level" width="100" height="50" />
+  </a>
+</div>
+
 <div align="center">
   Release date: 2026-02-23 <br/>
   Category: Game
