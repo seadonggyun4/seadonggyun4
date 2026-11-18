@@ -21,5 +21,5 @@
   <a href="https://jocohunt.com/p/prqgapz3"><img src="https://jocohunt.com/images/badges/weekly-dark.svg" width="250" /></a>
   <br/>
   <br/>
-  <a href="https://github.com/seadonggyun4"><img src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=none&motion=on" width="200" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/seadonggyun4"><img src="https://git-hub-archive.vercel.app/cards/stars.svg?v=3&theme=none&motion=on" width="150" /></a>
+  <a href="https://github.com/seadonggyun4/truthound"><img src="https://git-hub-archive.vercel.app/cards/truthound.svg?v=3&theme=none&motion=on" width="200" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/seadonggyun4"><img src="https://git-hub-archive.vercel.app/cards/stars.svg?v=3&theme=none&motion=on" width="150" /></a>
 </div>
